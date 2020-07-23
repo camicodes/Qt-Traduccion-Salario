@@ -1,0 +1,20 @@
+
+Lavoratore: Juan
+Stipendio: $480.7
+Sconto (9,5%): $45.6665
+Stipendio netto: $435.034
+--
+
+
+Lavoratore: Andrea
+Stipendio: $154.5
+Sconto (9,5%): $14.6775
+Stipendio netto: $139.822
+--
+
+
+Lavoratore: Roberto
+Stipendio: $506
+Sconto (9,5%): $48.07
+Stipendio netto: $457.93
+--
